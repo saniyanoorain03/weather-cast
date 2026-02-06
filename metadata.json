@@ -1,0 +1,8 @@
+
+{
+  "name": "Weather Cast",
+  "description": "A sophisticated weather application that combines real-time meteorological data with Gemini-powered personal styling and activity recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,2 +1,7 @@
-# weather-cast
-A responsive weather application that displays real-time weather information based on user search. Built using HTML, CSS, and JavaScript, this app fetches live data from a weather API and shows temperature, weather conditions, humidity, and wind speed in a clean and user-friendly interface.
+## Run Locally
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
